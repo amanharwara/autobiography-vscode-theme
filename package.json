@@ -1,0 +1,21 @@
+{
+  "name": "sn-autobiography-vscode",
+  "displayName": "Autobiography",
+  "description": "The Autobiography theme from Standard Notes for VS Code",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.69.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Autobiography",
+        "uiTheme": "vs",
+        "path": "./themes/Autobiography-color-theme.json"
+      }
+    ]
+  }
+}
