@@ -2,6 +2,7 @@
   "name": "sn-autobiography-vscode",
   "displayName": "Autobiography",
   "description": "The Autobiography theme from Standard Notes for VS Code",
+  "license": "GPL-3.0",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.69.0"
