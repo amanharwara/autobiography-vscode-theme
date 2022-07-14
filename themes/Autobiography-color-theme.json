@@ -15,6 +15,11 @@
 		"list.activeSelectionBackground": "#e8d9c8",
 		"list.inactiveSelectionBackground": "#e8d9c8",
 		"list.hoverBackground": "#e8d9c8",
+		"editor.lineHighlightBorder": "#e8d9c8",
+		"statusBar.background": "#a37337",
+		"sideBarSectionHeader.background": "#e8d9c8",
+		"sideBarSectionHeader.border": "#d9c6b1",
+		"breadcrumb.foreground": "#5c3f27",
 	},
 	"tokenColors": [
 		{
@@ -67,7 +72,7 @@
 				"storage"
 			],
 			"settings": {
-				"foreground": "#4B83CD"
+				"foreground": "#AA3731"
 			}
 		},
 		{
@@ -77,7 +82,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#7A3E9D"
+				"foreground": "#AA3731",
 			}
 		},
 		{
@@ -98,7 +103,7 @@
 				"support.variable"
 			],
 			"settings": {
-				"foreground": "#7A3E9D"
+				"foreground": "#5c3f27"
 			}
 		},
 		{
@@ -108,8 +113,7 @@
 				"support.function"
 			],
 			"settings": {
-				"fontStyle": "bold",
-				"foreground": "#AA3731"
+				"foreground": "#a37337"
 			}
 		},
 		{
@@ -120,7 +124,6 @@
 				"support.class"
 			],
 			"settings": {
-				"fontStyle": "bold",
 				"foreground": "#7A3E9D"
 			}
 		},
