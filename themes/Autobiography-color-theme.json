@@ -23,6 +23,7 @@
 		"input.background": "#ede4da",
 		"input.border": "#d9c6b1",
 		"input.foreground": "#5c3f27",
+		"input.placeholderForeground": "#5c3f27a1",
 	},
 	"tokenColors": [
 		{
