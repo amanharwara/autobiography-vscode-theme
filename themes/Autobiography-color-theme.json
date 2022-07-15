@@ -20,6 +20,9 @@
 		"sideBarSectionHeader.background": "#e8d9c8",
 		"sideBarSectionHeader.border": "#d9c6b1",
 		"breadcrumb.foreground": "#5c3f27",
+		"input.background": "#ede4da",
+		"input.border": "#d9c6b1",
+		"input.foreground": "#5c3f27",
 	},
 	"tokenColors": [
 		{
@@ -113,7 +116,7 @@
 				"support.function"
 			],
 			"settings": {
-				"foreground": "#a37337"
+				"foreground": "#9f4e03"
 			}
 		},
 		{
