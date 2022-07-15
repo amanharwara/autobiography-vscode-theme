@@ -24,9 +24,9 @@
 		"input.border": "#d9c6b1",
 		"input.foreground": "#5c3f27",
 		"input.placeholderForeground": "#5c3f27a1",
-		"scrollbarSlider.background": "#a37337",
-		"scrollbarSlider.hoverBackground": "#a37337af",
-		"scrollbarSlider.activeBackground": "#a37337",
+		"scrollbarSlider.background": "#a37337af",
+		"scrollbarSlider.hoverBackground": "#a37337cd",
+		"scrollbarSlider.activeBackground": "#a37337ef",
 	},
 	"tokenColors": [
 		{
