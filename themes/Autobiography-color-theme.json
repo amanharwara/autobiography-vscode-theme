@@ -20,10 +20,11 @@
 		"editorGroupHeader.border": "#d9c6b1",
 		"editorGroupHeader.tabsBorder": "#d9c6b1",
 		"editorGroup.border": "#d9c6b1",
-		"tab.activeBackground": "#e3d5c4",
+		"tab.activeBackground": "#ede4da",
 		"tab.activeForeground": "#5c3f27",
 		"tab.inactiveBackground": "#ede4da",
 		"tab.border": "#d9c6b1",
+		"tab.activeBorder": "#d68420",
 		// List
 		"list.activeSelectionIconForeground": "#fff",
 		"list.activeSelectionBackground": "#e8d9c8",
