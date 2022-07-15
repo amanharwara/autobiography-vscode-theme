@@ -16,6 +16,8 @@
 		"list.inactiveSelectionBackground": "#e8d9c8",
 		"list.hoverBackground": "#e8d9c8",
 		"editor.lineHighlightBorder": "#e8d9c8",
+		"editorLineNumber.foreground": "#a47c5b",
+		"editorLineNumber.activeForeground": "#5c3f27",
 		"statusBar.background": "#a37337",
 		"sideBarSectionHeader.background": "#e8d9c8",
 		"sideBarSectionHeader.border": "#d9c6b1",
