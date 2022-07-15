@@ -1,15 +1,21 @@
 {
 	"name": "Autobiography",
 	"colors": {
+		// Editor
 		"editor.background": "#ede4da",
 		"editor.foreground": "#5c3f27",
-		"list.activeSelectionIconForeground": "#fff",
+		"editor.lineHighlightBorder": "#e8d9c8",
+		"editorLineNumber.foreground": "#a47c5b",
+		"editorLineNumber.activeForeground": "#5c3f27",
+		// Activity bar
 		"activityBar.background": "#e8d9c8",
 		"activityBar.foreground": "#5c3f27",
 		"activityBar.border": "#d9c6b1",
+		// Side bar
 		"sideBar.background": "#ede4da",
 		"sideBar.foreground": "#5c3f27",
 		"sideBar.border": "#d9c6b1",
+		// Tabs & editor group
 		"editorGroupHeader.tabsBackground": "#e8d9c8",
 		"editorGroupHeader.border": "#d9c6b1",
 		"editorGroupHeader.tabsBorder": "#d9c6b1",
@@ -18,20 +24,23 @@
 		"tab.activeForeground": "#5c3f27",
 		"tab.inactiveBackground": "#ede4da",
 		"tab.border": "#d9c6b1",
+		// List
+		"list.activeSelectionIconForeground": "#fff",
 		"list.activeSelectionBackground": "#e8d9c8",
 		"list.inactiveSelectionBackground": "#e8d9c8",
 		"list.hoverBackground": "#e8d9c8",
-		"editor.lineHighlightBorder": "#e8d9c8",
-		"editorLineNumber.foreground": "#a47c5b",
-		"editorLineNumber.activeForeground": "#5c3f27",
+		// Status bar
 		"statusBar.background": "#a37337",
 		"sideBarSectionHeader.background": "#e8d9c8",
 		"sideBarSectionHeader.border": "#d9c6b1",
+		// Breadcrumbs
 		"breadcrumb.foreground": "#5c3f27",
+		// Inputs
 		"input.background": "#ede4da",
 		"input.border": "#d9c6b1",
 		"input.foreground": "#5c3f27",
 		"input.placeholderForeground": "#5c3f27a1",
+		// Scrollbar
 		"scrollbarSlider.background": "#a37337af",
 		"scrollbarSlider.hoverBackground": "#a37337cd",
 		"scrollbarSlider.activeBackground": "#a37337ef",
