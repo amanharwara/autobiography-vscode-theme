@@ -7,6 +7,12 @@
 		"editor.lineHighlightBorder": "#e8d9c8",
 		"editorLineNumber.foreground": "#a47c5b",
 		"editorLineNumber.activeForeground": "#5c3f27",
+		"editorLink.activeForeground": "#a37337",
+		"editorSuggestWidget.background": "#ede4da",
+		"editorSuggestWidget.border": "#d9c6b1",
+		"editorSuggestWidget.selectedForeground": "#5c3f27",
+		"editorSuggestWidget.highlightForeground": "#a37337",
+		"editorSuggestWidget.focusHighlightForeground": "#a37337",
 		// Activity bar
 		"activityBar.background": "#e8d9c8",
 		"activityBar.foreground": "#5c3f27",
