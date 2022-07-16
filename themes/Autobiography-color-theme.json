@@ -45,6 +45,12 @@
 		"scrollbarSlider.background": "#a37337af",
 		"scrollbarSlider.hoverBackground": "#a37337cd",
 		"scrollbarSlider.activeBackground": "#a37337ef",
+		// Text colors
+		"textLink.activeForeground": "#a37337",
+		// Buttons
+		"button.background": "#a37337",
+		"banner.foreground": "#ebcdaa",
+		"button.hoverBackground": "#c4904f", // #a37337 but brighter
 	},
 	"tokenColors": [
 		{
