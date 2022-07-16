@@ -49,8 +49,14 @@
 		"textLink.activeForeground": "#a37337",
 		// Buttons
 		"button.background": "#a37337",
-		"banner.foreground": "#ebcdaa",
 		"button.hoverBackground": "#c4904f", // #a37337 but brighter
+		// Checkbox
+		"checkbox.background": "#a37337",
+		"checkbox.foreground": "#ede4da",
+		"checkbox.border": "#d9c6b1",
+		// Dropdown
+		"dropdown.background": "#ede4da",
+		"dropdown.border": "#d9c6b1",
 	},
 	"tokenColors": [
 		{
