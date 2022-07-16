@@ -83,6 +83,12 @@
 		"menu.selectionForeground": "#5c3f27",
 		"menu.border": "#d9c6b1",
 		"menu.separatorBackground": "#d9c6b1",
+		"menubar.selectionBackground": "#e8d9c8",
+		"menubar.selectionForeground": "#5c3f27",
+		// Titlebar
+		"titleBar.activeBackground": "#ede4da",
+		"titleBar.activeForeground": "#5c3f27",
+		"titleBar.border": "#d9c6b1",
 	},
 	"tokenColors": [
 		{
