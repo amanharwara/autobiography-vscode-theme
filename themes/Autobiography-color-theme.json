@@ -11,6 +11,8 @@
 		"activityBar.background": "#e8d9c8",
 		"activityBar.foreground": "#5c3f27",
 		"activityBar.border": "#d9c6b1",
+		"activityBarBadge.background": "#a37337",
+		"activityBarBadge.foreground": "#ede4da",
 		// Side bar
 		"sideBar.background": "#ede4da",
 		"sideBar.foreground": "#5c3f27",
@@ -57,6 +59,9 @@
 		// Dropdown
 		"dropdown.background": "#ede4da",
 		"dropdown.border": "#d9c6b1",
+		// Badge
+		"badge.background": "#a37337",
+		"badge.foreground": "#ede4da",
 	},
 	"tokenColors": [
 		{
