@@ -68,6 +68,21 @@
 		// Badge
 		"badge.background": "#a37337",
 		"badge.foreground": "#ede4da",
+		// Peek view
+		"peekViewEditor.background": "#e9d9c7",
+		"peekViewResult.background": "#ede4da",
+		"peekViewTitle.background": "#e8d9c8",
+		"peekView.border": "#d9c6b1",
+		"peekViewResult.selectionBackground": "#a37337",
+		"peekViewResult.selectionForeground": "#ede4da",
+		// Panel
+		"panelTitle.activeForeground": "#5c3f27",
+		// Menu
+		"menu.background": "#ede4da",
+		"menu.foreground": "#5c3f27",
+		"menu.selectionForeground": "#5c3f27",
+		"menu.border": "#d9c6b1",
+		"menu.separatorBackground": "#d9c6b1",
 	},
 	"tokenColors": [
 		{
