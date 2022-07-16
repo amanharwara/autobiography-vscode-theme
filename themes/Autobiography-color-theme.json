@@ -67,6 +67,10 @@
 		"peekViewResult.selectionBackground": "#a37337",
 		"peekViewResult.selectionForeground": "#ede4da",
 		"peekViewTitle.background": "#e8d9c8",
+		// Progress bars
+		"progressBar.background": "#a37337",
+		"welcomePage.progress.background": "#e8d9c8",
+		"welcomePage.progress.foreground": "#a37337",
 		// Scrollbars
 		"scrollbarSlider.activeBackground": "#a37337ef",
 		"scrollbarSlider.background": "#a37337af",
@@ -86,11 +90,15 @@
 		"tab.border": "#d9c6b1",
 		"tab.inactiveBackground": "#ede4da",
 		// Text
+		"textBlockQuote.background": "#ede4da",
+		"textBlockQuote.border": "#d9c6b1",
 		"textLink.activeForeground": "#a37337",
 		// Title bar
 		"titleBar.activeBackground": "#ede4da",
 		"titleBar.activeForeground": "#5c3f27",
 		"titleBar.border": "#d9c6b1",
+		// Welcome page
+		"welcomePage.tileBackground": "#e8d9c8",
 	},
 	"tokenColors": [
 		{
