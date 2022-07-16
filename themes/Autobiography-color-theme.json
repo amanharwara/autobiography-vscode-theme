@@ -11,7 +11,6 @@
 		"badge.background": "#a37337",
 		"badge.foreground": "#ede4da",
 		// Breadcrumbs
-		"breadcrumb.foreground": "#5c3f27",
 		// Buttons
 		"button.background": "#a37337",
 		"button.hoverBackground": "#c4904f", // #a37337 but brighter
@@ -24,7 +23,6 @@
 		"dropdown.border": "#d9c6b1",
 		// Editor
 		"editor.background": "#ede4da",
-		"editor.foreground": "#5c3f27",
 		"editor.lineHighlightBorder": "#e8d9c8",
 		"editorLineNumber.activeForeground": "#5c3f27",
 		"editorLineNumber.foreground": "#a47c5b",
@@ -40,6 +38,8 @@
 		"editorSuggestWidget.selectedForeground": "#5c3f27",
 		"editorWidget.background": "#ede4da",
 		"editorWidget.border": "#d9c6b1",
+		// Icons
+		"icon.foreground": "#a47c5b",
 		// Inputs
 		"input.background": "#ede4da",
 		"input.border": "#d9c6b1",
@@ -53,11 +53,9 @@
 		// Menus
 		"menu.background": "#ede4da",
 		"menu.border": "#d9c6b1",
-		"menu.foreground": "#5c3f27",
 		"menu.selectionForeground": "#5c3f27",
 		"menu.separatorBackground": "#d9c6b1",
 		"menubar.selectionBackground": "#e8d9c8",
-		"menubar.selectionForeground": "#5c3f27",
 		// Panels
 		"panelTitle.activeForeground": "#5c3f27",
 		// Peek view
@@ -78,7 +76,6 @@
 		// Side bar
 		"sideBar.background": "#ede4da",
 		"sideBar.border": "#d9c6b1",
-		"sideBar.foreground": "#5c3f27",
 		"sideBarSectionHeader.background": "#e8d9c8",
 		"sideBarSectionHeader.border": "#d9c6b1",
 		// Status bar
@@ -93,6 +90,7 @@
 		"textBlockQuote.background": "#ede4da",
 		"textBlockQuote.border": "#d9c6b1",
 		"textLink.activeForeground": "#a37337",
+		"foreground": "#5c3f27",
 		// Title bar
 		"titleBar.activeBackground": "#ede4da",
 		"titleBar.activeForeground": "#5c3f27",
