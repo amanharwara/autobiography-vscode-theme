@@ -151,17 +151,19 @@
 	  },
 	  {
 		"name": "Types",
-		"scope": ["storage.type", "support.type"],
+		"scope": ["storage.type"],
 		"settings": {
 		  "foreground": "#7A3E9D"
 		}
 	  },
 	  {
-		"name": "Type names",
+		"name": "Other types",
 		"scope": [
 		  "entity.name.type.ts",
-		  "entity.name.type.alias.ts",
-		  "entity.name.type.module.ts"
+		  "entity.name.type.tsx",
+		  "entity.name.type.alias",
+		  "entity.name.type.module",
+		  "support.type"
 		],
 		"settings": {
 		  "foreground": "#006641"
@@ -293,7 +295,7 @@
 		  "entity.other.attribute-name.html"
 		],
 		"settings": {
-		  "foreground": "#7A3E9D"
+		  "foreground": "#483d8b"
 		}
 	  },
 	  {
