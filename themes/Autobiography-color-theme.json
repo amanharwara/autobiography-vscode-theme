@@ -10,7 +10,9 @@
 		// Badge
 		"badge.background": "#a37337",
 		"badge.foreground": "#ede4da",
-		// Breadcrumbs
+		// Base colors
+		"foreground": "#5c3f27",
+		"focusBorder": "#a37337",
 		// Buttons
 		"button.background": "#a37337",
 		"button.hoverBackground": "#c4904f", // #a37337 but brighter
@@ -47,9 +49,11 @@
 		"input.placeholderForeground": "#5c3f27a1",
 		// Lists
 		"list.activeSelectionBackground": "#e8d9c8",
-		"list.activeSelectionIconForeground": "#fff",
+		"list.activeSelectionForeground": "#5c3f27",
+		"list.activeSelectionIconForeground": "#5c3f27",
 		"list.hoverBackground": "#e8d9c8",
 		"list.inactiveSelectionBackground": "#e8d9c8",
+		"list.highlightForeground": "#a37337",
 		// Menus
 		"menu.background": "#ede4da",
 		"menu.border": "#d9c6b1",
@@ -90,13 +94,15 @@
 		"textBlockQuote.background": "#ede4da",
 		"textBlockQuote.border": "#d9c6b1",
 		"textLink.activeForeground": "#a37337",
-		"foreground": "#5c3f27",
 		// Title bar
 		"titleBar.activeBackground": "#ede4da",
 		"titleBar.activeForeground": "#5c3f27",
 		"titleBar.border": "#d9c6b1",
 		// Welcome page
 		"welcomePage.tileBackground": "#e8d9c8",
+		// Selection
+		"selection.background": "#d684202f",
+		"editor.selectionBackground": "#d684202f",
 	},
 	"tokenColors": [
 		{
