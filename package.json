@@ -2,8 +2,14 @@
   "name": "sn-autobiography-vscode",
   "displayName": "Autobiography",
   "description": "The Autobiography theme from Standard Notes for VS Code",
+  "publisher": "AmanHarwara",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amanharwara/autobiography-vscode-theme"
+  },
   "license": "GPL-3.0",
   "version": "1.0.0",
+  "keywords": ["theme"],
   "engines": {
     "vscode": "^1.69.0"
   },
