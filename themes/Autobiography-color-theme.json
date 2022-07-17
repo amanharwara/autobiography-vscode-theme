@@ -110,7 +110,7 @@
 		"scope": ["comment", "punctuation.definition.comment"],
 		"settings": {
 		  "fontStyle": "italic",
-		  "foreground": "#AAAAAA"
+		  "foreground": "#3f5378"
 		}
 	  },
 	  {
@@ -118,14 +118,14 @@
 		"scope": "comment.block.preprocessor",
 		"settings": {
 		  "fontStyle": "",
-		  "foreground": "#AAAAAA"
+		  "foreground": "#3f5378"
 		}
 	  },
 	  {
 		"name": "Comments: Documentation",
 		"scope": ["comment.documentation", "comment.block.documentation"],
 		"settings": {
-		  "foreground": "#448C27"
+		  "foreground": "#3f5378"
 		}
 	  },
 	  {
