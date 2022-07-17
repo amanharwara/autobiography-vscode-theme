@@ -8,6 +8,9 @@
     "url": "https://github.com/amanharwara/autobiography-vscode-theme"
   },
   "license": "GPL-3.0",
+  "sponsor": {
+    "url": "https://github.com/sponsors/amanharwara"
+  },
   "version": "1.0.0",
   "keywords": ["theme"],
   "engines": {
