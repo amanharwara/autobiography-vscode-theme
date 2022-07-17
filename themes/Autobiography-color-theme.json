@@ -158,7 +158,11 @@
 	  },
 	  {
 		"name": "Type names",
-		"scope": ["entity.name.type.ts", "entity.name.type.alias.ts"],
+		"scope": [
+		  "entity.name.type.ts",
+		  "entity.name.type.alias.ts",
+		  "entity.name.type.module.ts"
+		],
 		"settings": {
 		  "foreground": "#006641"
 		}
@@ -272,14 +276,14 @@
 		  "punctuation.definition.tag.end.html"
 		],
 		"settings": {
-		  "foreground": "#91B3E0"
+		  "foreground": "#2d649f"
 		}
 	  },
 	  {
 		"name": "HTML: Tag Names",
 		"scope": "entity.name.tag",
 		"settings": {
-		  "foreground": "#4B83CD"
+		  "foreground": "#2f65ac"
 		}
 	  },
 	  {
