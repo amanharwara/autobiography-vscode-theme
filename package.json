@@ -11,8 +11,10 @@
   "sponsor": {
     "url": "https://github.com/sponsors/amanharwara"
   },
-  "version": "1.0.0",
-  "keywords": ["theme"],
+  "version": "1.1.0",
+  "keywords": [
+    "theme"
+  ],
   "engines": {
     "vscode": "^1.69.0"
   },
