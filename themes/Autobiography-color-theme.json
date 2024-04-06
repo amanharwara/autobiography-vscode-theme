@@ -339,7 +339,8 @@
         "meta.selector",
         "meta.selector entity",
         "meta.selector entity punctuation",
-        "entity.name.tag.css"
+        "entity.name.tag.css",
+        "entity.other.attribute-name.class.css",
       ],
       "settings": {
         "foreground": "#7A3E9D"
@@ -369,9 +370,7 @@
     {
       "name": "CSS: Important Keyword",
       "scope": "keyword.other.important",
-      "settings": {
-        "fontStyle": "bold"
-      }
+      "settings": {}
     },
     {
       "name": "Markup: Changed",
